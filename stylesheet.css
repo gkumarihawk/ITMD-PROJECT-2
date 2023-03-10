@@ -1,0 +1,55 @@
+/*CSS for all pages*/
+
+body{
+	background: rgb(201, 76, 76);
+}
+
+h1, h2, h3, h4, h5, p {
+	font-family: Georgia, serif;
+}
+
+Strong{
+	font-weight: 600;
+}
+
+/*navigation bar for all three pages*/
+#mainNavBar {
+  font-family: 'Lilita One', cursive;
+  font-size: 20px;
+  background-color: #4D774E;
+  overflow: hidden;
+  width: 100%;
+}
+#navigationBar {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+#mainNavBar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+#mainNavBar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#mainNavBar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+#mainNavBar ul li a:hover {
+  text-decoration: underline;
+  text-decoration-color: #9DC88D;
+  text-decoration-thickness: 5px;
+}
+#onpage {
+  background-color: #9DC88D;
+}
