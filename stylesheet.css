@@ -53,3 +53,60 @@ Strong{
 #onpage {
   background-color: #9DC88D;
 }
+
+/*CSS for Resume*/
+#resumePage {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#rasumeH1{
+  float: left;
+  padding: 2px;
+  width: 500px;
+  margin: 92px 2px 42px 40px;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+
+#myPicture{
+  float: left;
+  width: 6em;
+  margin: 72px 42px 42px 2px;
+}
+
+#top {
+  clear: both;
+  background-color: #FAF9F6;
+	width: 100%;
+	margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 60px 30px;
+  width: 816px;
+  height: 1056px;
+  font-size: 11px;
+  line-height: 1;
+}
+
+.center{
+  text-align: center;
+}
+
+#mySkills{
+  border-top: 1px solid black;
+  padding-top: 10px;
+}
+
+.float-left{
+  float: left;
+}
+
+.float-right{
+  float: right;
+}
+
+.clear{
+  clear: both;
+}
