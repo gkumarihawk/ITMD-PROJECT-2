@@ -107,6 +107,7 @@ Strong{
 }
 
 #about_the_language {
+	display: block;
 	float: left;
   padding: 2px;
   width: 500px;
@@ -114,6 +115,8 @@ Strong{
   font-family: 'Roboto';
   font-size: 45px;
 }
+
+#intro
 
 .basicFact {
   display: inline-block;
