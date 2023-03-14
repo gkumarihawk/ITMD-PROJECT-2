@@ -46,11 +46,11 @@ Strong{
 }
 #mainNavBar ul li a:hover {
   text-decoration: underline;
-  text-decoration-color: #9DC88D;
+  text-decoration-color: #000000;
   text-decoration-thickness: 5px;
 }
 #onpage {
-  background-color: #9DC88D;
+  background-color: #000000;
 }
 
 /*CSS for Resume*/
