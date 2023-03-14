@@ -102,7 +102,7 @@ Strong{
 /*CSS for java*/
 #about_the_language {
   /*display: block;*/
-  float: left;
+  /*float: left;*/
   padding: 2px;
   width: 500px;
   margin: 92px 2px 42px 40px;
@@ -133,11 +133,6 @@ Strong{
 }
 
 /*CSS for C++*/
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
 
 /* Header Styles */
 /*header {
