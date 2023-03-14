@@ -99,3 +99,27 @@ Strong{
   padding-top: 10px;
 }
 
+/*CSS for java*/
+#javaPicture{
+  float: left;
+  width: 6em;
+  margin: 72px 42px 42px 2px;
+}
+
+#about_the_language h1 {
+	float: left;
+  padding: 2px;
+  width: 500px;
+  margin: 92px 2px 42px 40px;
+  font-family: 'Roboto';
+  font-size: 45px;
+}
+
+
+
+
+
+
+
+
+
