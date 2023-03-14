@@ -100,20 +100,20 @@ Strong{
 }
 
 /*CSS for java*/
-#javaPicture{
-  float: right;
-  width: 6em;
-  margin: 72px 42px 42px 2px;
-}
-
 #about_the_language {
-	display: block;
-	float: left;
+  /*display: block;*/
+  float: left;
   padding: 2px;
-  /*width: 500px;*/
-  /*margin: 92px 2px 42px 40px;*/
+  width: 500px;
+  margin: 92px 2px 42px 40px;
   font-family: 'Roboto';
   font-size: 45px;
+}
+
+#javaPicture{
+  float: left;
+  width: 6em;
+  margin: 72px 42px 42px 2px;
 }
 
 
@@ -127,7 +127,7 @@ Strong{
   background-color: #222;
   opacity: 0.8;
 }
-.basicFact h2, .tribe p {
+.basicFact h4, .basicFact p {
   padding: 0 16px;
   margin-bottom: 4px;
 }
