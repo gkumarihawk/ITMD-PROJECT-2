@@ -115,6 +115,20 @@ Strong{
   font-size: 45px;
 }
 
+.basicFact {
+  display: inline-block;
+  margin: 20px 0;
+	width: 100%;
+  padding: 8px 0;
+	border: 2px solid whitesmoke;
+  border-radius: 25px;
+  background-color: #222;
+  opacity: 0.8;
+}
+.basicFact h2, .tribe p {
+  padding: 0 16px;
+  margin-bottom: 4px;
+}
 
 
 
