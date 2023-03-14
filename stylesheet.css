@@ -101,12 +101,12 @@ Strong{
 
 /*CSS for java*/
 #javaPicture{
-  float: left;
+  float: center;
   width: 6em;
   margin: 72px 42px 42px 2px;
 }
 
-#about_the_language h1 {
+#about_the_language {
 	float: left;
   padding: 2px;
   width: 500px;
