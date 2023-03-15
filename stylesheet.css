@@ -127,6 +127,7 @@ Strong{
   background-color: #222;
   opacity: 0.8;
 }
+
 .basicFact h4, .basicFact p {
   padding: 0 16px;
   margin-bottom: 4px;
@@ -146,8 +147,9 @@ Strong{
 
 /* Main Content Styles */
 #c++Picture {
-  width: 100%;
-  height: auto;
+  float: left;
+  width: 6em;
+  margin: 72px 42px 42px 2px;
 }
 
 
