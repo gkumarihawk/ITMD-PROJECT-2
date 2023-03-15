@@ -111,9 +111,9 @@ Strong{
 
 #javaPicture{
   float: left;
-  width: 10em;
+  width: 15em;
   height: 10em;
-  /*margin: 72px 42px 42px 42px;*/
+  margin: 72px 42px 42px 42px;
 }
 
 
