@@ -106,7 +106,6 @@ Strong{
   width: 500px;
   margin: 92px 2px 42px 40px;
   font-family: 'Roboto';
-  font-size: px;
 }
 
 #picture{
@@ -143,7 +142,6 @@ Strong{
 }
 
 #video {
-  float: center;
   max-width: 700px;
   margin: 0 auto;
   margin-top: 50px;
