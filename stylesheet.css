@@ -142,17 +142,12 @@ Strong{
   font-size: 2.5em;
 }
 
-/*#c++Picture {
-  float: left;
-  width: 6em;
-  margin: 72px 42px 42px 2px;
-}*/
-
 #video {
   float: center;
   max-width: 700px;
   margin: 0 auto;
   margin-top: 50px;
+  margin: 00px 42px 42px 42px;
 }
 
 #basicFacts {
